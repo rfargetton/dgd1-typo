@@ -2,7 +2,7 @@
 
 ## Planning
 
-Brief le lundi 9 mars et rendu de projet le vendredi 13 mars (soutenance face à un jury)
+Brief le lundi 9 mars et rendu de projet le lundi 16 mars.
 
 ## Demande
 
