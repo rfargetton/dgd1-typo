@@ -4,7 +4,7 @@ Dans le cadre de la réalisation d'une identité visuelle pour un service de tax
 
 ## Typographie modulaire ?
 
-Les caractères modulaires sont construits à partir d’une ou de plusieurs formes simples, combinée(s) de façon à recréer tous les signes de l’alphabet. Ce sont des titrages, le plus souvent obtenus à partir de formes géométriques, le jeu étant de réduire au maximum le nombre d’éléments de base.
+Les caractères modulaires sont construits à partir d’une ou de plusieurs formes simples, combinée(s) à l'aide d'une grille de façon à recréer tous les signes de l’alphabet. Ce sont des titrages, le plus souvent obtenus à partir de formes géométriques, le jeu étant de réduire au maximum le nombre d’éléments de base.
 
 ![exemple](https://cdn.dribbble.com/users/3351193/screenshots/6191140/dribbble_brick_font3-07.png)
 
